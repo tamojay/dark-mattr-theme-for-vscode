@@ -2,12 +2,13 @@
 	"name": "Dark Mattr",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#172836",
+		"editor.background": "#1c2231",
 		"editor.foreground": "#FFEADB",
-		"activityBarBadge.background": "#42B883",
+		"activityBarBadge.background": "#138A72",
 		"sideBarTitle.foreground": "#FFCB6B",
-		"activityBar.background": "#062024",
-		"activityBar.foreground": "#f8913c"
+		"activityBar.background": "#252D42",
+		"activityBar.foreground": "#FFCB6B",
+		"sideBar.background": "#26374b"
 	},
 	"tokenColors": [
 		{
@@ -89,7 +90,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#FB8100"
+				"foreground": "#FB906C"
 			}
 		},
 		{
@@ -102,7 +103,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#76EAD7"
+				"foreground": "#FFC14A"
 			}
 		},
 		{
@@ -137,7 +138,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#77FF79"
+				"foreground": "#50bbbd"
 			}
 		},
 		{
@@ -152,7 +153,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#A1ffA3"
+				"foreground": "#83ac1c"
 			}
 		},
 		{
@@ -191,7 +192,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#CDFFFC"
+				"foreground": "#a4cecb"
 			}
 		},
 		{
@@ -241,7 +242,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#C5D7BD"
+				"foreground": "#83b4bd"
 			}
 		},
 		{
@@ -337,7 +338,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#82AAFF"
+				"foreground": "#96afe4"
 			}
 		},
 		{
