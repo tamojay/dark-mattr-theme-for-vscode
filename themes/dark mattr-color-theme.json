@@ -2,13 +2,13 @@
 	"name": "Dark Mattr",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#1c2231",
-		"editor.foreground": "#FFEADB",
-		"activityBarBadge.background": "#138A72",
+		"editor.background": "#172b38",
+		"editor.foreground": "#f0d4c0",
+		"activityBarBadge.background": "#3b1081",
 		"sideBarTitle.foreground": "#FFCB6B",
-		"activityBar.background": "#252D42",
-		"activityBar.foreground": "#FFCB6B",
-		"sideBar.background": "#26374b"
+		"activityBar.background": "#172b38",
+		"activityBar.foreground": "#ec822b",
+		"sideBar.background": "#1f2c3b"
 	},
 	"tokenColors": [
 		{
@@ -18,8 +18,8 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"fontStyle": "italic",
-				"foreground": "#ADACA7"
+				"fontStyle": "none",
+				"foreground": "#95a52c"
 			}
 		},
 		{
@@ -29,7 +29,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#F1AE89"
+				"foreground": "#f5c5b1"
 			}
 		},
 		{
@@ -38,7 +38,7 @@
 				"constant.other.color"
 			],
 			"settings": {
-				"foreground": "#FCDEC0"
+				"foreground": "#ffbfa4"
 			}
 		},
 		{
@@ -48,7 +48,7 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#83142C"
+				"foreground": "#da1e46"
 			}
 		},
 		{
@@ -59,7 +59,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#ECECEC"
+				"foreground": "#e0fdc9"
 			}
 		},
 		{
@@ -79,7 +79,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#C8D5B9"
+				"foreground": "#9df3c2"
 			}
 		},
 		{
@@ -103,7 +103,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#FFC14A"
+				"foreground": "#ec822b"
 			}
 		},
 		{
@@ -112,7 +112,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#FF8585"
+				"foreground": "#d48a8a"
 			}
 		},
 		{
@@ -138,7 +138,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#50bbbd"
+				"foreground": "#29d7e4"
 			}
 		},
 		{
@@ -153,7 +153,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#83ac1c"
+				"foreground": "#a0e234"
 			}
 		},
 		{
@@ -178,7 +178,7 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#D8F8B7"
+				"foreground": "#f9e674"
 			}
 		},
 		{
@@ -192,7 +192,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#a4cecb"
+				"foreground": "#f7cac9"
 			}
 		},
 		{
@@ -203,7 +203,7 @@
 				"variable.other.class.js"
 			],
 			"settings": {
-				"foreground": "#FFB26B"
+				"foreground": "#deeaee"
 			}
 		},
 		{
@@ -242,7 +242,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#83b4bd"
+				"foreground": "#deeaee"
 			}
 		},
 		{
@@ -316,7 +316,7 @@
 				"constant.character.escape"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#f3ecdb"
 			}
 		},
 		{
@@ -357,7 +357,7 @@
 				"source.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#78c1dd"
 			}
 		},
 		{
@@ -420,7 +420,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#7bc9dd"
 			}
 		},
 		{
@@ -550,7 +550,7 @@
 				"string.other.link.description.title.markdown"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#f0c652"
 			}
 		},
 		{
@@ -568,7 +568,7 @@
 				"markup.raw.block"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#e0fdc9"
 			}
 		},
 		{
