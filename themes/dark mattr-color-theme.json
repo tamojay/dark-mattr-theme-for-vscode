@@ -2,14 +2,14 @@
 	"name": "Dark Mattr Theme",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#172b38",
+		"editor.background": "#16343b",
 		"editor.foreground": "#f0d4c0",
 		"activityBarBadge.background": "#3b1081",
-		"sideBarTitle.foreground": "#3fbabe",
+		"sideBarTitle.foreground": "#3cc5ca",
 		"activityBar.background": "#1b303f",
 		"activityBar.foreground": "#3fbabe",
 		"sideBar.background": "#1f2c3b",
-		"statusBar.background": "#856464"
+		"statusBar.background": "#0e310b"
 	},
 	"tokenColors": [
 		{
@@ -20,7 +20,7 @@
 			],
 			"settings": {
 				"fontStyle": "none",
-				"foreground": "#899441"
+				"foreground": "#567222"
 			}
 		},
 		{
@@ -30,7 +30,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#f5c5b1"
+				"foreground": "#f58c5e"
 			}
 		},
 		{
@@ -49,7 +49,7 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#da1e46"
+				"foreground": "#ec214d"
 			}
 		},
 		{
@@ -213,7 +213,6 @@
 				"variable.language"
 			],
 			"settings": {
-				"fontStyle": "italic",
 				"foreground": "#FFD66B"
 			}
 		},
@@ -223,7 +222,6 @@
 				"entity.name.method.js"
 			],
 			"settings": {
-				"fontStyle": "italic",
 				"foreground": "#AEE1E1"
 			}
 		},
@@ -253,7 +251,7 @@
 				"text.html.basic entity.other.attribute-name"
 			],
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "none",
 				"foreground": "#FFB26B"
 			}
 		},
@@ -338,7 +336,7 @@
 				"tag.decorator.js punctuation.definition.tag.js"
 			],
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "none",
 				"foreground": "#96afe4"
 			}
 		},
@@ -348,7 +346,7 @@
 				"source.js constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "none",
 				"foreground": "#FF5E78"
 			}
 		},
@@ -473,12 +471,12 @@
 			}
 		},
 		{
-			"name": "Markup - Italic",
+			"name": "Markup - none",
 			"scope": [
-				"markup.italic"
+				"markup.none"
 			],
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "none",
 				"foreground": "#f07178"
 			}
 		},
@@ -494,13 +492,13 @@
 			}
 		},
 		{
-			"name": "Markup - Bold-Italic",
+			"name": "Markup - Bold-none",
 			"scope": [
-				"markup.bold markup.italic",
-				"markup.italic markup.bold",
+				"markup.bold markup.none",
+				"markup.none markup.bold",
 				"markup.quote markup.bold",
-				"markup.bold markup.italic string",
-				"markup.italic markup.bold string",
+				"markup.bold markup.none string",
+				"markup.none markup.bold string",
 				"markup.quote markup.bold string"
 			],
 			"settings": {
@@ -533,7 +531,7 @@
 				"markup.quote"
 			],
 			"settings": {
-				"fontStyle": "italic"
+				"fontStyle": "none"
 			}
 		},
 		{
